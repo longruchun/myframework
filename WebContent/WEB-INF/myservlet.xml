@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+   <bean id="dept" class="com.hx.controller.deptController" />
+   <bean id="role" class="com.hx.controller.roleController" />
+</beans>
